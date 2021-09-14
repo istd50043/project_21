@@ -1,4 +1,4 @@
-# Lab 5: B+ Tree Index
+# Lab 4: B+ Tree Index
 
 ### Due: Sunday, 12/12 11:59PM
 
