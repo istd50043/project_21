@@ -604,4 +604,4 @@ $ zip -r submission.zip src/ report.pdf
 
 We will compile and run your code again **our** system test suite. These tests will be a superset of the
 tests we have provided. Before handing in your code, you should make sure it produces no errors (passes all of
-the tests) by running  <tt>ant runtest -Dtest=testname</tt> and <tt>ant runsystest -Dtest=testname</tt> on all of the tests whose name ('testname') appears in the text. 
+the tests) by running  <tt>ant runtest -Dtest=testname</tt> and <tt>ant runsystest -Dtest=testname</tt> on all of the tests whose name ('testname') appears in the text of this .md file. 
