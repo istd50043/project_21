@@ -360,10 +360,8 @@ successfully. Please note that this test may take up to a minute to complete.
 You must submit your code (see below) as well as a short (2 pages, maximum) report describing your approach. This
 writeup should:
 
-* Explain any design decisions you made. For deadlock handling (detection and resolution), there are several
-alternatives. List the pros and cons of your approach. 
-* The lab assume locking at page level. How would your code/design change if you were to adopt tuple-level
-locking?
+* Explain any design decisions you made. 
+* Explain the non-trivial part of your code. 
 * Discuss and justify any changes you made to the API.
 * Describe any missing or incomplete elements of your code.
 
